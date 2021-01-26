@@ -15,10 +15,12 @@
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
-  
+
 
 - ⚡ Fun fact: I am learning French 🇫🇷  
   
+
+- :school_satchel: To learn more about me, visit my [portfolio](https://ramonespinosa.github.io/)
 
 <br/>  
 
