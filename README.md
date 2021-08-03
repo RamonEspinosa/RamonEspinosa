@@ -8,7 +8,7 @@
 ### <div align="center">I'm Ramon, a full-time full-stack developer 👨‍💻 working remotely since 2019🚀</div>  
   
 
-- 🔭 I’m currently working at [Prixz](http://about.prixz.com/)  
+- 🔭 I’m currently working at [TTT Studios](https://ttt.studio/)  
   
 
 - 🌱 I’m currently learning MongoDB and VueJS  
