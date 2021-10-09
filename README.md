@@ -1,8 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Ramon, a full-time full-stack developer 👨‍💻 working remotely since 2019🚀</div>  
