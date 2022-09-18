@@ -1,20 +1,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-
-
 <div align="center">
   <h1>I'm Juan Ramon Espinosa Lopez</h1>
   <h2>A full-time front-end developer 👨‍💻 working remotely since 2019🚀</h2>
 </div>
 
 <ul>
-  <li>🔭 I'm currently working at [TTT Studios](https://ttt.studio/)</li>
+  <li>
+    🔭 I'm currently working at <a href="https://ttt.studio/">TTT Studios</a>
+  </li>
   <li>🌱 I'm currently learning about Micro frontends.</li>
   <li>❓ Ask me about anything related to Typescript, React and CSS.</li>
   <li>⚡ Fun fact: I am learning French 🇫🇷</li>
   <li>
     :school_satchel: To learn more about me, visit my
-    [website](https://iamjuan.dev)
+    <a href="https://iamjuan.dev">website</a>
   </li>
 </ul>
 
